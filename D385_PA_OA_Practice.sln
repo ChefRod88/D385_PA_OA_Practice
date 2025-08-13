@@ -5,6 +5,18 @@ VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "D385_PA_OA_Practice", "D385_PA_OA_Practice\D385_PA_OA_Practice.pyproj", "{B2F04F85-ADF1-465F-A3CC-B126DF5DB2D1}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CheckaNullSettingUsingAssertions", "CheckaNullSettingUsingAssertions\CheckaNullSettingUsingAssertions.pyproj", "{C06D288E-687C-4D6F-A363-0B3F4DF33768}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SecureCodewithTemplateClass", "SecureCodewithTemplateClass\SecureCodewithTemplateClass.pyproj", "{2EEBF6F8-03BD-42E3-9405-889E2C3EF26E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RateLimiting", "RateLimiting\RateLimiting.pyproj", "{1024EA92-4EA7-48B3-BF45-FCD249B18B04}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AssertionStatements", "AssertionStatements\AssertionStatements.pyproj", "{0D97E97F-9A6D-4367-90B5-EA7F8E4BAE72}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CheckDatatoVerifyValuesNull", "CheckDatatoVerifyValuesNull\CheckDatatoVerifyValuesNull.pyproj", "{CE6C01DC-6763-411C-A399-52B2417F72DC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hashlib", "Hashlib\Hashlib.pyproj", "{F3AF6FE3-676E-4732-990B-AA8A9281261F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +25,18 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B2F04F85-ADF1-465F-A3CC-B126DF5DB2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B2F04F85-ADF1-465F-A3CC-B126DF5DB2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06D288E-687C-4D6F-A363-0B3F4DF33768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06D288E-687C-4D6F-A363-0B3F4DF33768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEBF6F8-03BD-42E3-9405-889E2C3EF26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEBF6F8-03BD-42E3-9405-889E2C3EF26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1024EA92-4EA7-48B3-BF45-FCD249B18B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1024EA92-4EA7-48B3-BF45-FCD249B18B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D97E97F-9A6D-4367-90B5-EA7F8E4BAE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D97E97F-9A6D-4367-90B5-EA7F8E4BAE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6C01DC-6763-411C-A399-52B2417F72DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6C01DC-6763-411C-A399-52B2417F72DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AF6FE3-676E-4732-990B-AA8A9281261F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AF6FE3-676E-4732-990B-AA8A9281261F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
