@@ -5,14 +5,15 @@ def hash_password(pwd):
     enc_pwd = pwd.encode()
     
     # call the sha256(...) function returns a hash object
-    d = hashlib.sha256(enc_pwd)
+    d = hashlib.sha3_256()
+    d.update(enc_pwd)
     
     # generate binary hash of password string in hexidecimal
-    hash = d.digest()
+    hash = d.hexdigest()
     
     return hash
     
 if __name__ == '__main__':
-    pwd = input()
+    pwd = "Password"
     
     print(hash_password(pwd))

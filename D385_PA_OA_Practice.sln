@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "D385_PA_OA_Practice", "D385_PA_OA_Practice\D385_PA_OA_Practice.pyproj", "{B2F04F85-ADF1-465F-A3CC-B126DF5DB2D1}"
 EndProject
@@ -16,6 +16,18 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CheckDatatoVerifyValuesNull", "CheckDatatoVerifyValuesNull\CheckDatatoVerifyValuesNull.pyproj", "{CE6C01DC-6763-411C-A399-52B2417F72DC}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hashlib", "Hashlib\Hashlib.pyproj", "{F3AF6FE3-676E-4732-990B-AA8A9281261F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ValidateDataforDeserialization", "ValidateDataforDeserialization\ValidateDataforDeserialization.pyproj", "{ADAC393C-1422-4321-B0CF-9A055D7E250F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VerifyDataisValid Numeric", "VerifyDataisValid Numeric\VerifyDataisValid Numeric.pyproj", "{02D91FA9-6D24-46F1-8623-D66ECE56EDBA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VerifyDataisValidLength", "VerifyDataisValidLength\VerifyDataisValidLength.pyproj", "{4F4DED43-2DF5-4E6B-AECE-7927551AD962}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VerifyDataisValidrange", "VerifyDataisValidrange\VerifyDataisValidrange.pyproj", "{DF63131F-EE33-44C4-980F-CD00C51CF698}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AES_Encryption", "AES_Encryption\AES_Encryption.pyproj", "{F56F26AA-83E3-4794-8EC5-5FF56AA37B9C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LPP", "LPP\LPP.pyproj", "{34D9C83C-BCBD-4604-9D62-07958E4695F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +49,18 @@ Global
 		{CE6C01DC-6763-411C-A399-52B2417F72DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3AF6FE3-676E-4732-990B-AA8A9281261F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F3AF6FE3-676E-4732-990B-AA8A9281261F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAC393C-1422-4321-B0CF-9A055D7E250F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAC393C-1422-4321-B0CF-9A055D7E250F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D91FA9-6D24-46F1-8623-D66ECE56EDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D91FA9-6D24-46F1-8623-D66ECE56EDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4DED43-2DF5-4E6B-AECE-7927551AD962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4DED43-2DF5-4E6B-AECE-7927551AD962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF63131F-EE33-44C4-980F-CD00C51CF698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF63131F-EE33-44C4-980F-CD00C51CF698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56F26AA-83E3-4794-8EC5-5FF56AA37B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56F26AA-83E3-4794-8EC5-5FF56AA37B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D9C83C-BCBD-4604-9D62-07958E4695F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D9C83C-BCBD-4604-9D62-07958E4695F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
